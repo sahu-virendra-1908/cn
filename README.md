@@ -4,7 +4,7 @@
 
 | Repository Name | Link |
 |---|---|
-| CircuitVerse Mobile App | :contentReference[oaicite:0]{index=0} |
+| CircuitVerse Mobile App | :https://github.com/circuitVerse/mobile-app |
 
 ---
 
